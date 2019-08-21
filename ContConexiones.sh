@@ -1,5 +1,5 @@
 #!/bin/bash
-# Hector Martinez Alcaraz 12/08/2019
+# Hèctor Martínez Alcaraz 12/08/2019
 
 # Script para contar conexiones a la IP definida en el primer parametro y guardar un log con la hora.
 
