@@ -1,5 +1,5 @@
 # Python 3
-# Hèctor Martínez 21/08/2019
+# Hèctor Martínez Alcaraz 21/08/2019
 
 # Este programa sirve para transformar una cadena de caracteres de mayus a minus y viceversa.
 # Requisitos: Se necesita la libreria pyperclip
